@@ -117,7 +117,11 @@ Submit a Pull Request
 This project is open-source and free to use for learning purposes.
 
 👨‍💻 Author
+
 B.Venkateswar rao
+
 B.Tech CSE Student
+
 GitHub: https://github.com/venkybattu
+
 Developed with ❤️ using Python.
