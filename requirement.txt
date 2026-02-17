@@ -1,0 +1,49 @@
+📋 Project Requirements
+✅ 1️⃣ Software Requirements
+🐍 Python Version
+
+Python 3.6 or higher (Recommended: Python 3.8+)
+
+Check your Python version:
+
+python --version
+
+
+or
+
+python3 --version
+
+✅ 2️⃣ Libraries Required
+
+Your project uses:
+
+import random
+
+
+✔ random is a built-in Python module
+❌ No external libraries required
+❌ No pip installations needed
+
+So there is no requirements.txt needed for this basic version.
+
+✅ 3️⃣ System Requirements
+
+Operating System:
+
+Windows
+
+macOS
+
+Linux
+
+Terminal / Command Prompt
+
+Keyboard input support
+
+✅ 4️⃣ Hardware Requirements (Minimal)
+
+512 MB RAM (or more)
+
+Any basic computer capable of running Python
+
+No GPU required
